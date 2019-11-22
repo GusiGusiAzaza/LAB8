@@ -1,0 +1,56 @@
+{
+  "HasConstructor": true,
+  "IsNested": false,
+  "IsSealed": false,
+  "Type": "LAB5.Hierarchy.Soldier",
+  "GUID": "8dee5bf1-21bf-374e-b76d-a9d5cab4bf1a",
+  "Assembly": "LAB5, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "BaseType": "LAB5.Base.Egyptian",
+  "PublicFields": [
+    "SoldierSkills",
+    "Metadata",
+    "Duties",
+    "Intelligence"
+  ],
+  "PrivateFields": [
+    "MaxIntelligence",
+    "Buf1",
+    "Buf2"
+  ],
+  "PublicProperties": [
+    "Name",
+    "Typee",
+    "Age",
+    "HardcoreLvl",
+    "AuthorityLvl",
+    "Money"
+  ],
+  "PrivateProperties": [],
+  "PublicMethods": [
+    "Work",
+    "PrintMetadata",
+    "MetadataSaveToJson",
+    "get_Name",
+    "set_Name",
+    "get_Typee",
+    "set_Typee",
+    "get_Age",
+    "set_Age",
+    "get_HardcoreLvl",
+    "set_HardcoreLvl",
+    "get_AuthorityLvl",
+    "set_AuthorityLvl",
+    "get_Money",
+    "set_Money",
+    "SellStuff",
+    "GetDuties",
+    "ToString",
+    "GetHashCode",
+    "Equals",
+    "GetType"
+  ],
+  "PrivateMethods": [
+    "Finalize",
+    "MemberwiseClone"
+  ]
+}
